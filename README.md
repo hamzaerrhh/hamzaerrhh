@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **delevery app**
  
- 🌱 I’m currently learning **react native expo, Aws, ENGINIX**
+ 🌱 I’m currently learning **Docker, ENGINIX**
 
 
  </div>
