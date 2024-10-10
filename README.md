@@ -39,7 +39,6 @@
 
 <h2 align="center">🛠️ GitHub Stats 🛠️</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaerrhh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaerrhh&theme=radical" alt="GitHub Streak" />
 </p>
 
