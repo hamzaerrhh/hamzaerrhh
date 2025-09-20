@@ -7,8 +7,8 @@
 <h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>Delivery App</strong><br />
-  🌱 I’m learning <strong>Docker</strong> and <strong>NGINX</strong>
+  🔭 I’m currently working on <strong>assistent AI App</strong><br />
+  🌱 I’m learning <strong>AI engering</strong> 
 </p>
 
 <br />
