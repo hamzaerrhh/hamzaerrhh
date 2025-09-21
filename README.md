@@ -42,6 +42,8 @@
 <h2 align="center">🛠️ GitHub Stats 🛠️</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Total%20Projects-12-blue" alt="Total Projects" />
+  ![Total Projects](https://img.shields.io/badge/Total%20Projects-12-blue)
+
 </p>
 
 <br />
