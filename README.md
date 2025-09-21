@@ -32,7 +32,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,framer" alt="Skills" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nginx,mongodb,go,nextjs,aws" alt="Skills" /><br />
   <img src="https://skillicons.dev/icons?i=docker,redis,kubernetes" alt="Skills" />
 </div>
 
