@@ -43,7 +43,6 @@
 <img src="https://img.shields.io/badge/Total%20Projects-12-blue" alt="Total Projects" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaerrhh&theme=radical" alt="GitHub Streak" />
-
 </p>
 
 <br />
