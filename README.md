@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Errabbane!;+I'm+a+Software+Developer!;+I+Build+Web,+Mobile+,+and+AI+Apps!;+You+Have+a+Business+Idea?;+I+Turn+It+Into+a+Real+App!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Errabbane!;+I'm+a+Software+Developer!;+I+Build+Web,+Mobile,+and+AI+Apps!;+You+Have+a+Business+Idea?;+I+Turn+It+Into+a+Real+App!" />
 </h1>
 
 <h3 align="center">A passionate software & AI developer from Morocco 🇲🇦</h3>
@@ -20,7 +20,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://hamzaerrhh.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Old%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Old Portfolio" />
+  </a>
+  <a href="https://hamza-kappa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/New%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="New Portfolio" />
   </a>
 </div>
 
@@ -87,13 +90,20 @@
 
 ---
 
-## 🛠️ GitHub Stats
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Projects-12-blue" alt="Total Projects" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaerrhh&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-6-success?style=for-the-badge" alt="Projects Completed" />
 </p>
+
+| # | Project | Description |
+|---|----------|-------------|
+| 1️⃣ | **RH AI Assistant** | A powerful AI assistant that automates HR management and team communication |
+| 2️⃣ | **Full Delivery System (Mobile & Web)** | End-to-end delivery platform built for both web and mobile users |
+| 3️⃣ | **Multi Front-End Animation Project** | Advanced UI project integrating **GSAP** and **Three.js** for stunning effects |
+| 4️⃣ | **Multi-Vendor Web App** | Marketplace platform enabling multiple vendors and real-time transactions |
+| 5️⃣ | **Chat App** | Real-time chat application using **WebSockets** and modern UI |
+| 6️⃣ | **Nabtati App** | Eco project 🌱 — sells nature-related products and provides plant info per region |
 
 ---
 
