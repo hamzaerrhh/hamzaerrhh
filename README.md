@@ -28,7 +28,10 @@
 <br />
 <hr />
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages & Tools ⚒️</h1>
+<br />
+<hr />
+<h2 align="center">⚒️ front end  Tools ⚒️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,framer" alt="Skills" /><br />
