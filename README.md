@@ -93,7 +93,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-6-success?style=for-the-badge" alt="Projects Completed" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-13-success?style=for-the-badge" alt="Projects Completed" />
 </p>
 
 | # | Project | Description |
