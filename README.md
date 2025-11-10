@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software & AI developer from Morocco 🇲🇦</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>an AI Assistant App</strong><br />
+  🔭 I’m currently working on <strong>an social entrepronariat App include AI</strong><br />
   🌱 I’m learning <strong>AI Engineering & Automation</strong><br />
   💡 I love transforming innovative ideas into real-world applications
 </p>
