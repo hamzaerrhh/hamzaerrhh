@@ -50,7 +50,7 @@
 ## ☁️ DevOps & Cloud Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gitlab,githubactions" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /><br />
   <p>Experienced with containerization, CI/CD pipelines, and cloud deployment automation</p>
 </div>
 
