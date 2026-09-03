@@ -1,120 +1,64 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Errabbane!;+I'm+a+Software+Developer!;+I+Build+Web,+Mobile,+and+AI+Apps!;+You+Have+a+Business+Idea?;+I+Turn+It+Into+a+Real+App!" />
-</h1>
-
-<h3 align="center">A passionate software & AI developer from Morocco 🇲🇦</h3>
+<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h3 align="center">Software Developer | Go & MERN Stack</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>an social entrepronariat App include AI</strong><br />
-  🌱 I’m learning <strong>AI Engineering & Automation</strong><br />
-  💡 I love transforming innovative ideas into real-world applications
+  <a href="https://github.com/hamzaerrhh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;Go+%26+MERN+Stack;Cloud+%26+Database+Architect" alt="Typing SVG" />
+  </a>
 </p>
 
-<br />
+---
 
-<div align="center">
-  <a href="mailto:hmzaeer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-errabbane-5ba243273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hamzaerrhh.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Old%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Old Portfolio" />
-  </a>
-  <a href="https://hamza-kappa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/New%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="New Portfolio" />
-  </a>
-</div>
+### 🚀 About Me
+
+- 💻 Software developer passionate about building scalable backends and modern web applications.
+- 🛠 Core focus: **Go (Golang)**, **MERN Stack (MongoDB, Express, React, Node.js)**, **AWS**, and real-time systems.
+- ⚡ Experienced in database optimization, real-time WebSocket communication, and microservices architecture.
 
 ---
 
-## ⚒️ Front-End Stack
+### 🧰 Tech Stack & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vite,react,nextjs,html,css,tailwind,framer,threejs,gsap,figma,vscode,git,github" /><br />
-  <p>Modern UI/UX builder — focusing on performance, interactivity, and creativity ✨</p>
-</div>
+**Languages & Frameworks**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
----
+**Databases & Caching**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 🧠 Back-End & API Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,nodejs,express,mongodb,redis" /><br />
-  <p>Strong in scalable architecture, RESTful APIs, real-time features, and microservices</p>
-</div>
-
----
-
-## ☁️ DevOps & Cloud Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /><br />
-  <p>Experienced with containerization, CI/CD pipelines, and cloud deployment automation</p>
-</div>
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🤖 AI, Data & Automation Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" /><br />
-  <p>
-    Python for <strong>AI, Data Analytics, Automation, and Workflow Optimization</strong><br />
-    Capable of integrating ML models into web or mobile apps for intelligent user experiences
-  </p>
-</div>
-
----
-
-## 📱 Mobile & Real-Time Applications
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,ts,js,nodejs" /><br />
-  <p>
-    Cross-platform mobile apps with real-time updates using <strong>WebSockets, APIs, and Cloud Sync</strong>
-  </p>
-</div>
-
----
-
-## 🧰 Additional Skills
-
-- 🔄 Real-time systems with **Socket.io & WebSockets**  
-- 🧩 API design & microservices architecture  
-- 🧪 Testing, debugging, and optimization  
-- 🧠 AI integration in user workflows  
-- 📈 Data visualization and dashboards  
-- 🛠️ Automation scripting and workflow optimization
-
----
-
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-13-success?style=for-the-badge" alt="Projects Completed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaerrhh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaerrhh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-| # | Project | Description |
-|---|----------|-------------|
-| 1️⃣ | **RH AI Assistant** | A powerful AI assistant that automates HR management and team communication |
-| 2️⃣ | **Full Delivery System (Mobile & Web)** | End-to-end delivery platform built for both web and mobile users |
-| 3️⃣ | **Multi Front-End Animation Project** | Advanced UI project integrating **GSAP** and **Three.js** for stunning effects |
-| 4️⃣ | **Multi-Vendor Web App** | Marketplace platform enabling multiple vendors and real-time transactions |
-| 5️⃣ | **Chat App** | Real-time chat application using **WebSockets** and modern UI |
-| 6️⃣ | **Nabtati App** | Eco project 🌱 — sells nature-related products and provides plant info per region |
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaerrhh/hamzaerrhh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaerrhh/hamzaerrhh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamzaerrhh/hamzaerrhh/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## ✨ Fun Facts
-
-<ul align="center">
-  <li>👨‍💻 I enjoy building scalable web applications and exploring new tech!</li>
-  <li>🌍 I’m based in Morocco and love connecting with developers worldwide.</li>
-  <li>⚡ I believe in creating impact through technology and automation.</li>
-</ul>
-
----
-
-<h3 align="center">💬 Let's Connect and Build Something Amazing Together!</h3>
+<p align="center">
+  📫 Reach out on <a href="https://linkedin.com">LinkedIn</a> | Created with ❤️ by Hamza
+</p>
